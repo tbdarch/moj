@@ -1,0 +1,2 @@
+Requires Java8+ to compile/run and Maven to build.
+Two Unit tests are available to test fare calculation scenarios. 
